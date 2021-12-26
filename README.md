@@ -303,5 +303,27 @@
 
 ## 正誤表
 
-訳本に間違いを見つけた場合はPRを送るか，saito.tetsuya[at]gmail.comにメールしてください。
+訳本に間違いを見つけた場合は[Issues](https://github.com/3110/raspirobots/issues/new/choose)に登録してください。
 
+※2021年12月26日(日)現在
+
+<table>
+  <thead>
+    <tr>
+      <th>版数</th>
+      <th>ページ</th>
+      <th>修正前</th>
+      <th>修正後</th>
+      <th>報告者</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>初版</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
