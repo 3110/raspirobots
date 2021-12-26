@@ -4,6 +4,7 @@ title: "[誤植] "
 labels: ["誤植"]
 body:
   - type: input
+    id: name
     attributes:
       label: "お名前"
       description: "お名前を記入してください（任意。ハンドルでも構いません）"
@@ -11,6 +12,7 @@ body:
     validations:
       required: false
   - type: input
+    id: email
     attributes:
       label: "メールアドレス"
       description: "メールアドレスを記入してください（任意）"
@@ -18,6 +20,7 @@ body:
     validations:
       required: false
   - type: dropdown
+    id: version
     attributes:
       label: "版数"
       description: "誤植を見つけた版数"
@@ -27,12 +30,14 @@ body:
     validations:
       required: true
   - type: input
+    id: page
     attributes:
       label: "ページ番号"
       description: "誤植があったページ番号を記入してください。"
     validations:
       required: true
   - type: textarea
+    id: typo
     attributes:
       label: "誤植の詳細"
       description: "誤植の詳細を記入してください。"
