@@ -1,7 +1,9 @@
-name: "誤植報告"
-description: "誤植報告用"
+name: "誤植"
+description: "誤植を報告するのに使用してください"
 title: "[誤植] "
 labels: ["誤植"]
+assignees:
+  - "3110"
 body:
   - type: input
     id: name
@@ -26,7 +28,7 @@ body:
       description: "誤植を見つけた版数"
       multiple: false
       options:
-        - 初版
+        - 初版1刷
     validations:
       required: true
   - type: input
