@@ -1,26 +1,26 @@
-name: 誤植報告
-description: 誤植報告用
+name: "誤植報告"
+description: "誤植報告用"
 title: "[誤植] "
 labels: ["誤植"]
 body:
   - type: input
     attributes:
-      label: お名前
-      description: お名前を記入してください（任意。ハンドルでも構いません）
-      placeholder: 匿名
+      label: "お名前"
+      description: "お名前を記入してください（任意。ハンドルでも構いません）"
+      placeholder: "匿名"
     validations:
       required: false
   - type: input
     attributes:
-      label: メールアドレス
-      description: メールアドレスを記入してください（任意）
-      placeholder: email@example.com
+      label: "メールアドレス"
+      description: "メールアドレスを記入してください（任意）"
+      placeholder: "email@example.com"
     validations:
       required: false
   - type: dropdown
     attributes:
-      label: 版数
-      description: 誤植を見つけた版数
+      label: "版数"
+      description: "誤植を見つけた版数"
       multiple: false
       options:
         - 初版
@@ -28,13 +28,13 @@ body:
       required: true
   - type: input
     attributes:
-      label: ページ番号
-      description: 誤植があったページ番号を記入してください。
+      label: "ページ番号"
+      description: "誤植があったページ番号を記入してください。"
     validations:
       required: true
   - type: textarea
     attributes:
-      label: 誤植の詳細
-      description: 誤植の詳細を記入してください。
+      label: "誤植の詳細"
+      description: "誤植の詳細を記入してください。"
     validations:
       required: true
