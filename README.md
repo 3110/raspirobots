@@ -8,7 +8,7 @@
 
 原著のコードリポジトリである[https://github.com/the-raspberry-pi-guy/raspirobots](https://github.com/the-raspberry-pi-guy/raspirobots)で公開されているソースコードのうち，訳本で翻訳した部分を含めて公開しています。
 
-また，訳本を読むうえで参考になる情報や正誤情報も公開していきます。
+また，訳本を読むうえで参考になる情報や正誤情報も公開していきます。訳本に間違いを見つけた場合は，お手数ですが[Issues](https://github.com/3110/raspirobots/issues/new/choose)に登録していただけるようお願いいたします。
 
 ## 書籍の詳細もくじ
 
@@ -509,7 +509,7 @@
 
 ## 正誤表
 
-訳本に間違いを見つけた場合は[Issues](https://github.com/3110/raspirobots/issues/new/choose)に登録してください。
+[間違いのご連絡はこちら](https://github.com/3110/raspirobots/issues/new/choose)
 
 ※2021年12月26日(日)現在
 
