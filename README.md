@@ -1,6 +1,6 @@
 # Raspberry Piでロボットをつくろう！ - コードリポジトリ
 
-[![表紙](images/cover-thumbnail.png)](https://www.kyoritsu-pub.co.jp/bookdetail/9784320124813)[![私のロボット](images/my-robot-thumbnail.png)]
+[![表紙](images/cover-thumbnail.png)](https://www.kyoritsu-pub.co.jp/bookdetail/9784320124813)![私のロボット](images/my-robot-thumbnail.png)
 
 ## このリポジトリの説明
 
