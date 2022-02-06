@@ -233,92 +233,92 @@
     <tbody>
         <tr>
             <td rowspan=6>Raspberry Pi 3 Model B+スターターキット</td>
-            <td><a href="https://ssci.to/3880">https://ssci.to/3880</a></td>
+            <td><a href="https://ssci.to/3880" target="_blank">https://ssci.to/3880</a></td>
             <td>販売終了</td>
         </tr>
         <tr>
             <td>
-                白，16GB <a href="https://raspberry-pi.ksyic.com/main/index/pdp.id/446/pdp.open/446">https://raspberry-pi.ksyic.com/main/index/pdp.id/446/pdp.open/446</a>
+                白，16GB <a href="https://raspberry-pi.ksyic.com/main/index/pdp.id/446/pdp.open/446" target="_blank">https://raspberry-pi.ksyic.com/main/index/pdp.id/446/pdp.open/446</a>
             </td>
             <td>入荷未定</td>
         </tr>
         <tr>
             <td>
-                黒，16GB <a href="https://raspberry-pi.ksyic.com/main/index/pdp.id/447/pdp.open/447">https://raspberry-pi.ksyic.com/main/index/pdp.id/447/pdp.open/447</a>
+                黒，16GB <a href="https://raspberry-pi.ksyic.com/main/index/pdp.id/447/pdp.open/447" target="_blank">https://raspberry-pi.ksyic.com/main/index/pdp.id/447/pdp.open/447</a>
             </td>
             <td>入荷未定</td>
         </tr>
         <tr>
             <td>
-                透明，16GB <a href="https://raspberry-pi.ksyic.com/main/index/pdp.id/448/pdp.open/448">https://raspberry-pi.ksyic.com/main/index/pdp.id/448/pdp.open/448</a>
+                透明，16GB <a href="https://raspberry-pi.ksyic.com/main/index/pdp.id/448/pdp.open/448" target="_blank">https://raspberry-pi.ksyic.com/main/index/pdp.id/448/pdp.open/448</a>
             </td>
             <td>入荷未定</td>
         </tr>
         <tr>
             <td>
-            赤，16GB <a href="https://raspberry-pi.ksyic.com/main/index/pdp.id/449/pdp.open/449">https://raspberry-pi.ksyic.com/main/index/pdp.id/449/pdp.open/449</a>
+            赤，16GB <a href="https://raspberry-pi.ksyic.com/main/index/pdp.id/449/pdp.open/449" target="_blank">https://raspberry-pi.ksyic.com/main/index/pdp.id/449/pdp.open/449</a>
             </td>
             <td>入荷未定</td>
         </tr>
         <tr>
             <td>
-                透明，32GB <a href="https://raspberry-pi.ksyic.com/main/index/pdp.id/438/pdp.open/438">https://raspberry-pi.ksyic.com/main/index/pdp.id/438/pdp.open/438</a>
+                透明，32GB <a href="https://raspberry-pi.ksyic.com/main/index/pdp.id/438/pdp.open/438" target="_blank">https://raspberry-pi.ksyic.com/main/index/pdp.id/438/pdp.open/438</a>
             </td>
             <td>入荷未定</td>
         </tr>
         <tr>
             <td rowspan=5>Raspberry Pi 3 Model B+</td>
             <td>
-                <a href="https://ssci.to/3920">https://ssci.to/3920</a>（OKdo製）
+                <a href="https://ssci.to/3920" target="_blank">https://ssci.to/3920</a>（OKdo製）
             </td>
             <td>入荷未定</td>
         </tr>
         <tr>
             <td>
-                <a href="https://ssci.to/3850">https://ssci.to/3850</a>（Element14製）
+                <a href="https://ssci.to/3850" target="_blank">https://ssci.to/3850</a>（Element14製）
             </td>
             <td>入荷未定</td>
         </tr>
         <tr>
             <td>
-                <a href="https://www.marutsu.co.jp/pc/i/1345410/">https://www.marutsu.co.jp/pc/i/1345410/</a>（RS版）
+                <a href="https://www.marutsu.co.jp/pc/i/1345410/" target="_blank">https://www.marutsu.co.jp/pc/i/1345410/</a>（RS版）
             </td>
             <td>入荷待ち</td>
         </tr>
         <tr>
             <td>
-                <a href="https://www.marutsu.co.jp/pc/i/1349448/">https://www.marutsu.co.jp/pc/i/1349448/</a>（Element14版）
+                <a href="https://www.marutsu.co.jp/pc/i/1349448/" target="_blank">https://www.marutsu.co.jp/pc/i/1349448/</a>（Element14版）
             </td>
             <td>入荷待ち</td>
         </tr>
         <tr>
             <td>
-                <a href="https://akizukidenshi.com/catalog/g/gM-13470/">https://akizukidenshi.com/catalog/g/gM-13470/</a>（RS版）
+                <a href="https://akizukidenshi.com/catalog/g/gM-13470/" target="_blank">https://akizukidenshi.com/catalog/g/gM-13470/</a>（RS版）
             </td>
             <td>納期確認中</td>
         </tr>
         <tr>
             <td rowspan=4>Raspberry Pi 3 Model B</td>
             <td>
-                <a href="https://ssci.to/3050">https://ssci.to/3050</a>
+                <a href="https://ssci.to/3050" target="_blank">https://ssci.to/3050</a>
             </td>
             <td>入荷未定</td>
         </tr>
         <tr>
             <td>
-                <a href="https://www.yodobashi.com/product/100000001003445642/">https://www.yodobashi.com/product/100000001003445642/</a>（アイ･オー･データ製）
+                <a href="https://www.yodobashi.com/product/100000001003445642/" target="_blank">https://www.yodobashi.com/product/100000001003445642/</a>（アイ･オー･データ製）
             </td>
             <td>在庫なし</td>
         </tr>
         <tr>
             <td>
-                <a href="https://www.marutsu.co.jp/pc/i/834053/">https://www.marutsu.co.jp/pc/i/834053/</a>
+                <a href="https://www.marutsu.co.jp/pc/i/834053/" target="_blank">https://www.marutsu.co.jp/pc/i/834053/</a>
             </td>
             <td>入荷待ち</td>
         </tr>
         <tr>
             <td>
-                <a href="https://akizukidenshi.com/catalog/g/gM-10414/">https://akizukidenshi.com/catalog/g/gM-10414/</a>
+                <a href="https://akizukidenshi.com/catalog/g/gM-10414/" target="_blank">https://akizukidenshi.com/catalog/g/gM-10414/</a>
             </td>
             <td>在庫なし</td>
         </tr>
@@ -327,7 +327,7 @@
             公式 Raspberry Piカメラモジュール
           </td>
           <td>
-            <a href="https://ssci.to/2713">https://ssci.to/2713</a>
+            <a href="https://ssci.to/2713" target="_blank">https://ssci.to/2713</a>
           </td>
           <td>
             在庫あり
@@ -338,7 +338,7 @@
             公式 Raspberry Piオフィシャルマウス
           </td>
           <td>
-            <a href="https://ssci.to/6426">https://ssci.to/6426</a>
+            <a href="https://ssci.to/6426" target="_blank">https://ssci.to/6426</a>
           </td>
           <td>
             在庫なし
@@ -349,7 +349,7 @@
             公式 Raspberry Piオフィシャルキーボード
           </td>
           <td>
-            <a href="https://ssci.to/6425">https://ssci.to/6425</a>
+            <a href="https://ssci.to/6425" target="_blank">https://ssci.to/6425</a>
           </td>
           <td>
             在庫あり
@@ -360,7 +360,7 @@
             400穴ブレッドボード
           </td>
           <td>
-            <a href="https://ssci.to/313">https://ssci.to/313</a>
+            <a href="https://ssci.to/313" target="_blank">https://ssci.to/313</a>
           </td>
           <td>
             在庫あり
@@ -371,7 +371,7 @@
             抵抗コンデンサLED詰め合わせパック
           </td>
           <td>
-            <a href="https://ssci.to/1218">https://ssci.to/1218</a>
+            <a href="https://ssci.to/1218" target="_blank">https://ssci.to/1218</a>
           </td>
           <td>
             在庫なし
@@ -382,7 +382,7 @@
             ジャンパワイヤー
           </td>
           <td>
-            オス-メス <a href="https://ssci.to/209">https://ssci.to/209</a>
+            オス-メス <a href="https://ssci.to/209" target="_blank">https://ssci.to/209</a>
           </td>
           <td>
             在庫あり
@@ -390,7 +390,7 @@
         </tr>
         <tr>
             <td>
-                メス-メス <a href="https://ssci.to/56">https://ssci.to/56</a>
+                メス-メス <a href="https://ssci.to/56" target="_blank">https://ssci.to/56</a>
             </td>
             <td>
                 在庫あり
@@ -398,7 +398,7 @@
         </tr>
         <tr>
             <td>
-            オス-オス <a href="https://ssci.to/57">https://ssci.to/57</a>
+            オス-オス <a href="https://ssci.to/57" target="_blank">https://ssci.to/57</a>
             </td>
             </td>
             <td>
@@ -410,7 +410,7 @@
             モーメンタリ式押しボタン
           </td>
           <td>
-            <a href="https://ssci.to/38">https://ssci.to/38</a>
+            <a href="https://ssci.to/38" target="_blank">https://ssci.to/38</a>
           </td>
           <td>
             在庫あり
@@ -421,7 +421,7 @@
             電池ホルダー（単三×6）
           </td>
           <td>
-            <a href="https://www.marutsu.co.jp/pc/i/65884/">https://www.marutsu.co.jp/pc/i/65884/</a>
+            <a href="https://www.marutsu.co.jp/pc/i/65884/" target="_blank">https://www.marutsu.co.jp/pc/i/65884/</a>
           </td>
           <td>
             在庫あり
@@ -432,7 +432,7 @@
             降圧コンバータ（LM2596）
           </td>
           <td>
-            <a href="https://www.marutsu.co.jp/pc/i/25649540/">https://www.marutsu.co.jp/pc/i/25649540/</a>
+            <a href="https://www.marutsu.co.jp/pc/i/25649540/" target="_blank">https://www.marutsu.co.jp/pc/i/25649540/</a>
           </td>
           <td>
             在庫あり
@@ -443,7 +443,7 @@
             モーターコントローラチップ（L293D）
           </td>
           <td>
-            <a href="https://www.marutsu.co.jp/pc/i/13014388/">https://www.marutsu.co.jp/pc/i/13014388/</a>
+            <a href="https://www.marutsu.co.jp/pc/i/13014388/" target="_blank">https://www.marutsu.co.jp/pc/i/13014388/</a>
           </td>
           <td>
             在庫なし
@@ -454,7 +454,7 @@
             JetBot Chassis Kit V2
           </td>
           <td>
-            <a href="https://ssci.to/6944">https://ssci.to/6944</a>
+            <a href="https://ssci.to/6944" target="_blank">https://ssci.to/6944</a>
           </td>
           <td>
             在庫あり
@@ -465,7 +465,7 @@
             Wiiリモコン
           </td>
           <td>
-            中古 <a href="https://item.rakuten.co.jp/iimoreuse/169/">https://item.rakuten.co.jp/iimoreuse/169/</a>
+            中古 <a href="https://item.rakuten.co.jp/iimoreuse/169/" target="_blank">https://item.rakuten.co.jp/iimoreuse/169/</a>
           </td>
           <td>
             在庫あり
@@ -476,7 +476,7 @@
             超音波距離センサー（HC-SR04）
           </td>
           <td>
-            <a href="https://ssci.to/6080">https://ssci.to/6080</a>
+            <a href="https://ssci.to/6080" target="_blank">https://ssci.to/6080</a>
           </td>
           <td>
             在庫あり
@@ -487,7 +487,7 @@
             抵抗キット 1/4W（20種計500本入り）
           </td>
           <td>
-            <a href="https://ssci.to/1084">https://ssci.to/1084</a>
+            <a href="https://ssci.to/1084" target="_blank">https://ssci.to/1084</a>
           </td>
           <td>
             在庫あり
@@ -498,7 +498,7 @@
             NeoPixel Stick
           </td>
           <td>
-            本体 <a href="https://www.marutsu.co.jp/pc/i/829719/">https://www.marutsu.co.jp/pc/i/829719/</a>
+            本体 <a href="https://www.marutsu.co.jp/pc/i/829719/" target="_blank">https://www.marutsu.co.jp/pc/i/829719/</a>
           </td>
           <td>
             在庫あり
@@ -506,7 +506,7 @@
         </tr>
         <tr>
           <td>
-            ピンヘッダ <a href="https://www.marutsu.co.jp/pc/i/60528/">https://www.marutsu.co.jp/pc/i/60528/</a>
+            ピンヘッダ <a href="https://www.marutsu.co.jp/pc/i/60528/" target="_blank">https://www.marutsu.co.jp/pc/i/60528/</a>
           </td>
           <td>
             在庫あり
@@ -517,7 +517,7 @@
             3.5mmスピーカー
           </td>
           <td>
-            <a href="https://amazon.jp/dp/B075NXYGKX">https://amazon.jp/dp/B075NXYGKX</a>
+            <a href="https://amazon.jp/dp/B075NXYGKX" target="_blank">https://amazon.jp/dp/B075NXYGKX</a>
           </td>
           <td>
             在庫あり
@@ -528,7 +528,7 @@
             線追従センサー（TCRT5000ベース）
           </td>
           <td>
-            <a href="https://store.shopping.yahoo.co.jp/stk-shop/73010615.html">https://store.shopping.yahoo.co.jp/stk-shop/73010615.html</a>
+            <a href="https://store.shopping.yahoo.co.jp/stk-shop/73010615.html" target="_blank">https://store.shopping.yahoo.co.jp/stk-shop/73010615.html</a>
           </td>
           <td>
             在庫あり
@@ -536,7 +536,6 @@
         </tr>
     </tbody>
 </table>
-
 
 ## 正誤表
 
