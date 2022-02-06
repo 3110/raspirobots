@@ -267,6 +267,37 @@
             <td>入荷未定</td>
         </tr>
         <tr>
+            <td rowspan=5>Raspberry Pi 3 Model B+</td>
+            <td>
+                <a href="https://ssci.to/3920">https://ssci.to/3920</a>（OKdo製）
+            </td>
+            <td>入荷未定</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://ssci.to/3850">https://ssci.to/3850</a>（Element14製）
+            </td>
+            <td>入荷未定</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://www.marutsu.co.jp/pc/i/1345410/">https://www.marutsu.co.jp/pc/i/1345410/</a>（RS版）
+            </td>
+            <td>入荷待ち</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://www.marutsu.co.jp/pc/i/1349448/">https://www.marutsu.co.jp/pc/i/1349448/</a>（Element14版）
+            </td>
+            <td>入荷待ち</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://akizukidenshi.com/catalog/g/gM-13470/">https://akizukidenshi.com/catalog/g/gM-13470/</a>（RS版）
+            </td>
+            <td>納期確認中</td>
+        </tr>
+        <tr>
             <td rowspan=4>Raspberry Pi 3 Model B</td>
             <td>
                 <a href="https://ssci.to/3050">https://ssci.to/3050</a>
