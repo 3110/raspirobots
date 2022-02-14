@@ -220,7 +220,7 @@
 
 [Supply chain, shortages, and our first-ever price increase](https://www.raspberrypi.com/news/supply-chain-shortages-and-our-first-ever-price-increase/)（「サプライチェーン，欠品，そして初めての値上げ」，2021年10月20日）に書かれている通り，世界的な半導体不足のため，Raspberry Piが手に入りにくい状況が続いています。特に，本書で使っているRaspberry Pi 3B+に関しては，一時的ですが他のモデル（Pi 3B，Compute Module 3/3+）の生産を優先する措置が取られています。しばらくはRaspberry Pi 3Bの方が入手しやすい状況が続くと思われますので，3Bを入手することをお勧めします。
 
-※販売状況は2022年2月6日現在
+※販売状況は2022年2月14日現在
 
 <table>
     <thead>
@@ -271,7 +271,7 @@
             <td>
                 <a href="https://ssci.to/3920" target="_blank">https://ssci.to/3920</a>（OKdo製）
             </td>
-            <td>入荷未定</td>
+            <td>在庫あり</td>
         </tr>
         <tr>
             <td>
