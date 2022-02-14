@@ -541,7 +541,7 @@
 
 [間違いのご連絡はこちら](https://github.com/3110/raspirobots/issues/new/choose)
 
-※2021年12月26日(日)現在
+※2022年2月14日(月)現在
 
 <table>
   <thead>
