@@ -310,7 +310,7 @@
             <td>お取り寄せ</td>
         </tr>     
         <tr>
-            <td rowspan=4>Raspberry Pi 3 Model B</td>
+            <td rowspan=5>Raspberry Pi 3 Model B</td>
             <td>
                 <a href="https://ssci.to/3050" target="_blank">https://ssci.to/3050</a>
             </td>
@@ -417,7 +417,6 @@
         <tr>
             <td>
             オス-オス <a href="https://ssci.to/57" target="_blank">https://ssci.to/57</a>
-            </td>
             </td>
             <td>
                 在庫あり
