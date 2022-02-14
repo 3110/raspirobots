@@ -267,7 +267,7 @@
             <td>入荷未定</td>
         </tr>
         <tr>
-            <td rowspan=5>Raspberry Pi 3 Model B+</td>
+            <td rowspan=7>Raspberry Pi 3 Model B+</td>
             <td>
                 <a href="https://ssci.to/3920" target="_blank">https://ssci.to/3920</a>（OKdo製）
             </td>
@@ -298,6 +298,18 @@
             <td>納期確認中</td>
         </tr>
         <tr>
+            <td>
+                <a href="https://www.iodata.jp/product/pc/raspberrypi/ud-rp3bp/index.htm" target="_blank">https://www.iodata.jp/product/pc/raspberrypi/ud-rp3bp/index.htm</a>
+            </td>
+            <td>一時受注停止</td>
+        </tr>     
+        <tr>
+            <td>
+                <a href="https://www.yodobashi.com/product/100000001004192758/" target="_blank">https://www.yodobashi.com/product/100000001004192758/</a>（アイ・オー・データ版）
+            </td>
+            <td>お取り寄せ</td>
+        </tr>     
+        <tr>
             <td rowspan=4>Raspberry Pi 3 Model B</td>
             <td>
                 <a href="https://ssci.to/3050" target="_blank">https://ssci.to/3050</a>
@@ -306,9 +318,15 @@
         </tr>
         <tr>
             <td>
-                <a href="https://www.yodobashi.com/product/100000001003445642/" target="_blank">https://www.yodobashi.com/product/100000001003445642/</a>（アイ･オー･データ製）
+                <a href="https://www.iodata.jp/product/pc/raspberrypi/ud-rp3/index.htm" target="_blank">https://www.iodata.jp/product/pc/raspberrypi/ud-rp3/index.htm</a>
             </td>
-            <td>在庫なし</td>
+            <td>一時受注停止</td>
+        </tr>     
+        <tr>
+            <td>
+                <a href="https://www.yodobashi.com/product/100000001003445642/" target="_blank">https://www.yodobashi.com/product/100000001003445642/</a>（アイ･オー･データ版）
+            </td>
+            <td>販売終了</td>
         </tr>
         <tr>
             <td>
