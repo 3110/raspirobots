@@ -361,7 +361,7 @@
             <a href="https://ssci.to/6426" target="_blank">https://ssci.to/6426</a>
           </td>
           <td>
-            在庫なし
+            在庫あり
           </td>
         </tr>
         <tr>
