@@ -299,7 +299,7 @@
         </tr>
         <tr>
             <td>
-                <a href="https://www.marutsu.co.jp/pc/i/834053/" target="_blank">https://www.marutsu.co.jp/pc/i/834053/</a>
+                <a href="https://www.yodobashi.com/product/100000001003445642/" target="_blank">https://www.yodobashi.com/product/100000001003445642/</a>（アイ･オー･データ版）
             </td>
             <td>販売終了</td>
         </tr>
@@ -322,6 +322,7 @@
             <a href="https://ssci.to/6426" target="_blank">https://ssci.to/6426</a>
           </td>
           <td>
+            在庫あり
             在庫あり
           </td>
         </tr>
@@ -380,7 +381,6 @@
         <tr>
             <td>
             オス-オス <a href="https://ssci.to/57" target="_blank">https://ssci.to/57</a>
-            </td>
             </td>
             <td>
                 在庫あり
