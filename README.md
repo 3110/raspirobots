@@ -220,7 +220,9 @@
 
 [Supply chain, shortages, and our first-ever price increase](https://www.raspberrypi.com/news/supply-chain-shortages-and-our-first-ever-price-increase/)（「サプライチェーン，欠品，そして初めての値上げ」，2021年10月20日）に書かれている通り，世界的な半導体不足のため，Raspberry Piが手に入りにくい状況が続いています。特に，本書で使っているRaspberry Pi 3B+に関しては，一時的ですが他のモデル（Pi 3B，Compute Module 3/3+）の生産を優先する措置が取られています。しばらくはRaspberry Pi 3Bの方が入手しやすい状況が続くと思われますので，3Bを入手することをお勧めします。
 
-※販売状況は2022年2月6日現在
+2023年8月11日現在，入手しにくい状況は改善されていていますが，多くの販売サイトでRaspberry Pi 3B/3B+が販売終了になっています。Raspberry Pi 3A+やRaspberry Pi Zero WHあたりを利用することをお勧めします。
+
+※販売状況は2023年8月11日現在
 
 <table>
     <thead>
@@ -232,102 +234,81 @@
     </thaed>
     <tbody>
         <tr>
-            <td rowspan=6>Raspberry Pi 3 Model B+スターターキット</td>
-            <td><a href="https://ssci.to/3880" target="_blank">https://ssci.to/3880</a></td>
-            <td>販売終了</td>
+            <td rowspan=2>Raspberry Pi 3A+</td>
+            <td>
+                <a href="https://ssci.to/4110" target="_blank">https://ssci.to/4110</a>
+            </td>
+            <td>在庫あり</td>
         </tr>
         <tr>
             <td>
-                白，16GB <a href="https://raspberry-pi.ksyic.com/main/index/pdp.id/446/pdp.open/446" target="_blank">https://raspberry-pi.ksyic.com/main/index/pdp.id/446/pdp.open/446</a>
+                <a href="https://www.marutsu.co.jp/pc/i/2238096/" target="_blank">https://www.marutsu.co.jp/pc/i/2238096/</a>
             </td>
-            <td>入荷未定</td>
+            <td>納期30日程度</td>
+        </tr>
+        <tr>
+            <td rowspan=2>Raspberry Pi Zero WH</td>
+            <td>
+                <a href="https://ssci.to/3646" target="_blank">https://ssci.to/3646</a>
+            </td>
+            <td>売り切れ</td>
         </tr>
         <tr>
             <td>
-                黒，16GB <a href="https://raspberry-pi.ksyic.com/main/index/pdp.id/447/pdp.open/447" target="_blank">https://raspberry-pi.ksyic.com/main/index/pdp.id/447/pdp.open/447</a>
+                <a href="https://www.marutsu.co.jp/pc/i/1320453/" target="_blank">https://www.marutsu.co.jp/pc/i/1320453/</a>
             </td>
-            <td>入荷未定</td>
+            <td>在庫あり</td>
         </tr>
         <tr>
-            <td>
-                透明，16GB <a href="https://raspberry-pi.ksyic.com/main/index/pdp.id/448/pdp.open/448" target="_blank">https://raspberry-pi.ksyic.com/main/index/pdp.id/448/pdp.open/448</a>
-            </td>
-            <td>入荷未定</td>
-        </tr>
-        <tr>
-            <td>
-            赤，16GB <a href="https://raspberry-pi.ksyic.com/main/index/pdp.id/449/pdp.open/449" target="_blank">https://raspberry-pi.ksyic.com/main/index/pdp.id/449/pdp.open/449</a>
-            </td>
-            <td>入荷未定</td>
-        </tr>
-        <tr>
-            <td>
-                透明，32GB <a href="https://raspberry-pi.ksyic.com/main/index/pdp.id/438/pdp.open/438" target="_blank">https://raspberry-pi.ksyic.com/main/index/pdp.id/438/pdp.open/438</a>
-            </td>
-            <td>入荷未定</td>
-        </tr>
-        <tr>
-            <td rowspan=5>Raspberry Pi 3 Model B+</td>
+            <td rowspan=4>Raspberry Pi 3 Model B+</td>
             <td>
                 <a href="https://ssci.to/3920" target="_blank">https://ssci.to/3920</a>（OKdo製）
             </td>
-            <td>入荷未定</td>
+            <td>販売終了</td>
         </tr>
         <tr>
             <td>
                 <a href="https://ssci.to/3850" target="_blank">https://ssci.to/3850</a>（Element14製）
             </td>
-            <td>入荷未定</td>
+            <td>販売終了</td>
         </tr>
         <tr>
             <td>
                 <a href="https://www.marutsu.co.jp/pc/i/1345410/" target="_blank">https://www.marutsu.co.jp/pc/i/1345410/</a>（RS版）
             </td>
-            <td>入荷待ち</td>
+            <td>販売終了</td>
         </tr>
         <tr>
             <td>
                 <a href="https://www.marutsu.co.jp/pc/i/1349448/" target="_blank">https://www.marutsu.co.jp/pc/i/1349448/</a>（Element14版）
             </td>
-            <td>入荷待ち</td>
+            <td>販売終了</td>
         </tr>
         <tr>
-            <td>
-                <a href="https://akizukidenshi.com/catalog/g/gM-13470/" target="_blank">https://akizukidenshi.com/catalog/g/gM-13470/</a>（RS版）
-            </td>
-            <td>納期確認中</td>
-        </tr>
-        <tr>
-            <td rowspan=4>Raspberry Pi 3 Model B</td>
+            <td rowspan=3>Raspberry Pi 3 Model B</td>
             <td>
                 <a href="https://ssci.to/3050" target="_blank">https://ssci.to/3050</a>
             </td>
-            <td>入荷未定</td>
+            <td>販売終了</td>
         </tr>
         <tr>
             <td>
                 <a href="https://www.yodobashi.com/product/100000001003445642/" target="_blank">https://www.yodobashi.com/product/100000001003445642/</a>（アイ･オー･データ製）
             </td>
-            <td>在庫なし</td>
+            <td>販売終了</td>
         </tr>
         <tr>
             <td>
                 <a href="https://www.marutsu.co.jp/pc/i/834053/" target="_blank">https://www.marutsu.co.jp/pc/i/834053/</a>
             </td>
-            <td>入荷待ち</td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://akizukidenshi.com/catalog/g/gM-10414/" target="_blank">https://akizukidenshi.com/catalog/g/gM-10414/</a>
-            </td>
-            <td>在庫なし</td>
+            <td>販売終了</td>
         </tr>
         <tr>
           <td>
-            公式 Raspberry Piカメラモジュール
+            公式 Raspberry Piカメラモジュール V2（500万画素→800万画素）
           </td>
           <td>
-            <a href="https://ssci.to/2713" target="_blank">https://ssci.to/2713</a>
+            <a href="https://ssci.to/8940" target="_blank">https://ssci.to/8940</a>
           </td>
           <td>
             在庫あり
@@ -341,7 +322,7 @@
             <a href="https://ssci.to/6426" target="_blank">https://ssci.to/6426</a>
           </td>
           <td>
-            在庫なし
+            在庫あり
           </td>
         </tr>
         <tr>
@@ -374,7 +355,7 @@
             <a href="https://ssci.to/1218" target="_blank">https://ssci.to/1218</a>
           </td>
           <td>
-            在庫なし
+            販売終了
           </td>
         </tr>
         <tr>
@@ -446,7 +427,7 @@
             <a href="https://www.marutsu.co.jp/pc/i/13014388/" target="_blank">https://www.marutsu.co.jp/pc/i/13014388/</a>
           </td>
           <td>
-            在庫なし
+            5営業日程度
           </td>
         </tr>
         <tr>
@@ -541,7 +522,7 @@
 
 [間違いのご連絡はこちら](https://github.com/3110/raspirobots/issues/new/choose)
 
-※2021年12月26日(日)現在
+※2022年8月11日(均)現在
 
 <table>
   <thead>
