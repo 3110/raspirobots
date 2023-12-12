@@ -522,7 +522,7 @@
 
 [間違いのご連絡はこちら](https://github.com/3110/raspirobots/issues/new/choose)
 
-※2022年8月11日(均)現在
+※2022年8月11日(金)現在
 
 <table>
   <thead>
